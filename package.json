@@ -2,14 +2,23 @@
   "name": "recipe-api",
   "version": "1.0.0",
   "description": "Recipe API",
+  "homepage": "https://github.com/7inhex/js-my-recipes#readme",
+  "bugs": {
+    "url": "https://github.com/7inhex/js-my-recipes/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/7inhex/js-my-recipes.git"
+  },
+  "license": "ISC",
+  "author": "ash",
+  "type": "commonjs",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "ansi-colors": "^4.1.3",
-    "express": "^4.21.1"
+    "express": "^4.22.1"
   }
 }
